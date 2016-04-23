@@ -2,6 +2,7 @@ name: JustGame
 favicon: null
 layout_spectrum: 0.6720910554286093
 typography_spectrum: 0.9440567262936383
+title: Just Game
 cta:
   domain: null
   bucket: null
