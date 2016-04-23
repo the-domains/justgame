@@ -1,0 +1,28 @@
+name: JustGame
+favicon: null
+layout_spectrum: 0.6720910554286093
+typography_spectrum: 0.9440567262936383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3346416004933417
+  lightness: 0.827996420674026
+  saturation: 0.7097625767346472
+  rhythmicContrast: 0.24699073797091842
+purpose: []
